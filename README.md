@@ -1,2 +1,2 @@
 # kaushiki.github.io
-This repo will contain everything that i learn during web development course
+This repo contains everything that i have learnt during web development course
